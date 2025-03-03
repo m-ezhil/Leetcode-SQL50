@@ -1,3 +1,4 @@
+/* 1321. Restaurant Growth */
 select 
     c.visited_on,
     (select 
